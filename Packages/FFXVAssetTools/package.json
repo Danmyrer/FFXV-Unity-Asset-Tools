@@ -1,26 +1,25 @@
 {
-    "name": "dev.henrihenr.ffxvassettools",
-    "version": "0.1.0",
-    "displayName": "FFXV Asset Tools",
-    "description": "A collection of useful tools to manage textures and materials",
-    "unity": "2019.4",
-    "unityRelease": "31f1",
-    "documentationUrl": "https://github.com/Danmyrer/FFXV-Unity-Asset-Tools",
-    "changelogUrl": "https://github.com/Danmyrer/FFXV-Unity-Asset-Tools/releases",
-    "licensesUrl": "https://example.com/licensing.html",
-    "dependencies": {
-      "com.[company-name].some-package": "1.0.0",
-      "com.[company-name].other-package": "2.0.0"
-   },
-   "keywords": [
-      "keyword1",
-      "keyword2",
-      "keyword3"
-    ],
-    "author": {
-      "name": "Unity",
-      "email": "unity@example.com",
-      "url": "https://www.unity3d.com"
-    }
-  }
-  
+  "name": "dev.henrihenr.ffxvassettools",
+  "version": "0.1.0",
+  "displayName": "FFXV Asset Tools",
+  "description": "A collection of useful tools to manage textures and materials",
+  "unity": "2019.4",
+  "unityRelease": "31f1",
+  "documentationUrl": "https://github.com/Danmyrer/FFXV-Unity-Asset-Tools",
+  "changelogUrl": "https://github.com/Danmyrer/FFXV-Unity-Asset-Tools/releases",
+  "licensesUrl": "https://example.com/licensing.html",
+  "keywords": [
+    "final fantasy 15",
+    "textures",
+    "materials",
+    "auto assign",
+    "extract",
+    "assets"
+  ],
+  "author": {
+    "name": "Henri Henr",
+    "email": "danmyr.09@gmail.com",
+    "url": "https://github.com/Danmyrer/FFXV-Unity-Asset-Tools"
+  },
+  "type": "tool"
+}
