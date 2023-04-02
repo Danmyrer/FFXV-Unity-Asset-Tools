@@ -22,6 +22,8 @@ This tool was written with FFXV assets in mind, but can probably be used for oth
 
 ## Tools
 
+![FFXVAssetTools](https://user-images.githubusercontent.com/64264487/229385649-693004b2-0d03-491b-b781-0d2521255914.gif)
+
 |Name|Description|
 |---|---|
 |Extract Materials|Can be used to extract all the materials from multiple FBX files.|
