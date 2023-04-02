@@ -640,7 +640,7 @@ public class FFXVAssetTools : EditorWindow
 
             selectedMat.SetTexture(OcclusionMap, null);
 
-            selectedMat.DisableKeyword("_DETAIL_MULX2");
+            selectedMat.DisableKeyword("_DETAIL_MU  LX2");
             selectedMat.SetTexture(DetailMask, null);
             selectedMat.SetTexture(DetailAlbedoMap, null);
             selectedMat.SetTexture(DetailNormalMap, null);

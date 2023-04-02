@@ -64,6 +64,15 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
+    "dev.henrihenr.ffxvassettools": {
+      "version": "file:FFXVAssetTools",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.[company-name].some-package": "1.0.0",
+        "com.[company-name].other-package": "2.0.0"
+      }
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
