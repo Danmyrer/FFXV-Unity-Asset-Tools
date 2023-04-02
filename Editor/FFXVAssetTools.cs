@@ -22,7 +22,7 @@ public class FFXVAssetTools : EditorWindow
     private const string ProgressBarAssignString = "FFXV Asset Tools Texture Assign";
 
     private static bool _highlightMissingTexture;
-    private const string MissingTextureTexturePath = "Assets/FFXVAssetTools/Ressources/missing_texture.png";
+    private const string MissingTextureTexturePath = "Packages/dev.henrihenr.ffxvassettools/Ressources/missing_texture.png";
     private static Texture _missingTextureTexture;
 
     private const string AggressiveAssignTooltip =
